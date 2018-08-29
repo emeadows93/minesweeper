@@ -31,8 +31,7 @@ while (numberOfBombsPlaced < numberOfBombs){
   /*
   The code in your while loop has the potential
   to place bombs on top of already existing bombs.
-  This will be fixed when you learn about control flow
-  */
+    */
 }
 return board;
 };
